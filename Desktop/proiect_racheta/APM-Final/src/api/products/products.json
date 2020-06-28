@@ -1,0 +1,72 @@
+[
+  {
+    "memberId": 1,
+    "memberName": "Stefan Gheti",
+    "memberCode": "GDN-0011",
+    "joinDate": "October 10, 2019",
+    "description": "Aerospace student who wants to be a software engineer",
+    "salary": 19.95,
+    "starRating": 3.1,
+    "imageUrl": "assets/images/gheti.jpeg"
+  },
+  {
+    "memberId": 2,
+    "memberName": "Robert Ionita",
+    "memberCode": "GDN-0023",
+    "joinDate": "March 18, 2019",
+    "description": "15 gallon capacity rolling garden cart",
+    "salary": 32.99,
+    "starRating": 4.2,
+    "imageUrl": "assets/images/robert.jpeg"
+  },
+  {
+    "memberId": 5,
+    "memberName": "Marius Trifu",
+    "memberCode": "TBX-0048",
+    "joinDate": "May 21, 2018",
+    "description": "Curved claw steel hammer",
+    "salary": 8.9,
+    "starRating": 4.8,
+    "imageUrl": "assets/images/trifu.jpeg"
+  },
+  {
+    "memberId": 8,
+    "memberName": "Vlad Ivanciu",
+    "memberCode": "TBX-0022",
+    "joinDate": "May 15, 2019",
+    "description": "Project Manager",
+    "salary": 11.55,
+    "starRating": 3.7,
+    "imageUrl": "assets/images/ivanciu.jpeg"
+  },
+  {
+    "memberId": 10,
+    "memberName": "Romica Stoica",
+    "memberCode": "GMG-0042",
+    "joinDate": "October 15, 2018",
+    "description": "Aerospace student with aerodynamic flair",
+    "salary": 35.95,
+    "starRating": 4.6,
+    "imageUrl": "assets/images/romica.jpeg"
+  },
+  {
+    "memberId": 11,
+    "memberName": "Fabian Ghioaca",
+    "memberCode": "GMG-0042",
+    "joinDate": "October 15, 2018",
+    "description": "Aerospace student with aerodynamic flair",
+    "salary": 35.95,
+    "starRating": 4.6,
+    "imageUrl": "assets/images/flabi.jpeg"
+  },
+  {
+    "memberId": 12,
+    "memberName": "Ioana Hutupascu",
+    "memberCode": "GMG-0042",
+    "joinDate": "October 15, 2018",
+    "description": "Aerospace student with aerodynamic flair",
+    "salary": 35.95,
+    "starRating": 4.6,
+    "imageUrl": "assets/images/ioanak.jpeg"
+  }
+]

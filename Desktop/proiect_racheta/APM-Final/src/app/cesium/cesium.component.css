@@ -1,0 +1,10 @@
+@import url(C:\Users\Stefan\Desktop\proiect_racheta\APM-Final\node_modules\cesium\Source\Widgets\CesiumWidget\CesiumWidget.css);
+
+html, body, .map-container {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  position: relative;
+}
