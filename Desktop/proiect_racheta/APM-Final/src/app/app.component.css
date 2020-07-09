@@ -1,3 +1,32 @@
 .nav-link {
-  font-size: large;
+  font-size: larger;
+  color: black;
+  background-color: darkturquoise;
+  outline-color: black;
+  color-interpolation-filters: auto;
+}
+.navbar-brand {
+  color: darkblue;
+  shape-margin: inherit;
+}
+
+.bg-light{
+  color: red;
+}
+
+.active {
+  color: red;
+}
+
+.nav > li > a:hover{
+  background-color: red;
+}
+
+.container{
+  width: 1800px;
+  height: 900px;
+}
+
+div{
+  background-color: azure;
 }

@@ -12,6 +12,8 @@ import { AngularCesiumWidgetsModule } from 'angular-cesium';
 import { CesiumComponent } from './cesium/cesium.component';
 import { ServerLoginComponent } from './server-login/server-login.component';
 import { PolylineComponent } from './polyline/polyline.component';
+import { TrackEntityLayerComponent } from './track-entity-layer/track-entity-layer.component';
+import { RocketComponent } from './rocket/rocket.component';
 
 @NgModule({
   declarations: [
@@ -21,7 +23,9 @@ import { PolylineComponent } from './polyline/polyline.component';
     SafePipe,
     CesiumComponent,
     ServerLoginComponent,
-    PolylineComponent
+    PolylineComponent,
+    TrackEntityLayerComponent,
+    RocketComponent
   ],
   imports: [
     BrowserModule,

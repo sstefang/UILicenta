@@ -1,3 +1,27 @@
 thead {
-  color: #337AB7;
+  color: green;
+}
+.card-header {
+  background: bisque;
+
+}
+
+.row{
+  color: darkblue;
+}
+
+.text {
+  color: green;
+}
+
+.btn {
+  background-color: palevioletred;
+}
+
+.table-responsive {
+  align-content: flex-end;
+}
+
+tr{
+  background-color: beige;
 }

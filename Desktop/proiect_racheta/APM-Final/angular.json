@@ -27,7 +27,8 @@
               },
               "src/favicon.ico",
               "src/assets",
-              "src/api"
+              "src/api",
+              "src/.htaccess"
             ],
             "styles": [
               "src/styles.css",
@@ -96,7 +97,8 @@
                 "output": "./assets/cesium"
               },
               "src/favicon.ico",
-              "src/assets"
+              "src/assets",
+              "src/.htaccess"
             ],
             "styles": [
               "./node_modules/cesium/Build/Cesium/Widgets/widgets.css",

@@ -14,7 +14,7 @@
     "memberName": "Robert Ionita",
     "memberCode": "GDN-0023",
     "joinDate": "March 18, 2019",
-    "description": "15 gallon capacity rolling garden cart",
+    "description": "2nd year aerospace student",
     "salary": 32.99,
     "starRating": 4.2,
     "imageUrl": "assets/images/robert.jpeg"
@@ -24,7 +24,7 @@
     "memberName": "Marius Trifu",
     "memberCode": "TBX-0048",
     "joinDate": "May 21, 2018",
-    "description": "Curved claw steel hammer",
+    "description": "Project coordinator",
     "salary": 8.9,
     "starRating": 4.8,
     "imageUrl": "assets/images/trifu.jpeg"
@@ -53,20 +53,20 @@
     "memberId": 11,
     "memberName": "Fabian Ghioaca",
     "memberCode": "GMG-0042",
-    "joinDate": "October 15, 2018",
+    "joinDate": "October 17, 2019",
     "description": "Aerospace student with aerodynamic flair",
     "salary": 35.95,
-    "starRating": 4.6,
+    "starRating": 3.2,
     "imageUrl": "assets/images/flabi.jpeg"
   },
   {
     "memberId": 12,
     "memberName": "Ioana Hutupascu",
     "memberCode": "GMG-0042",
-    "joinDate": "October 15, 2018",
+    "joinDate": "October 16, 2019",
     "description": "Aerospace student with aerodynamic flair",
     "salary": 35.95,
-    "starRating": 4.6,
+    "starRating": 3.1,
     "imageUrl": "assets/images/ioanak.jpeg"
   }
 ]

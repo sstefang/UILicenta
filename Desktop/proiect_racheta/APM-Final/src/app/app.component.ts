@@ -20,6 +20,8 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
+  color = 'red';
+  color1 = 'blue';
   pageTitle = 'DiplomaProject: Stefan-Sorin Gheti';
   name = 'Angular';
   cesiumLoaded = true;
