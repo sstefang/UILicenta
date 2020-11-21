@@ -27,7 +27,7 @@ export class AppComponent {
   cesiumLoaded = true;
   Cesium = Cesium;
   ngOnInit() {
-    console.log('load main map')
+    console.log('load main map');
   }
 
 }

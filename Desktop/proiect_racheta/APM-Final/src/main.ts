@@ -43,6 +43,8 @@ var poll = setInterval(() => {
   }
 }, 1000);
 
+
+/*
 let app;
 app.use(function (req, res, next) {
 
@@ -62,3 +64,4 @@ app.use(function (req, res, next) {
   // Pass to next layer of middleware
   next();
 });
+*/
